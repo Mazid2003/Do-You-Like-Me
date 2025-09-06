@@ -60,8 +60,10 @@
     h1 {
       font-size: 2.2rem;
       background: linear-gradient(45deg, #ff4b2b, #ff416c, #ffcc33);
-      -webkit-background-clip: text;
+      background-clip: text;             /* Standard property */
+      -webkit-background-clip: text;     /* Vendor prefix for WebKit browsers */
       -webkit-text-fill-color: transparent;
+      color: transparent;                /* Fallback */
       margin-bottom: 30px;
       text-shadow: 2px 2px 8px rgba(0,0,0,0.2);
     }
@@ -224,3 +226,4 @@
   </script>
 </body>
 </html>
+
