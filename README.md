@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 02_04_14 PM" src="https://github.com/user-attachments/assets/63bdd27c-0478-4a3c-bbe6-6ab76e3d35a6" />
+
 # 💖 Do You Like Me?  
 
 An interactive and fun little web app built with **HTML, CSS, and JavaScript**.  
