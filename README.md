@@ -41,7 +41,7 @@ Perfect for experimenting with UI/UX creativity, animations, and DOM manipulatio
 ## ⚡ How to Run Locally
 1. Clone this repository:
    
-   git clone https://github.com/your-username/do-you-like-me.git
+   git clone https://github.com/Mazid2003/Do-You-Like-Me.git
 
 Open index.html in your browser.
 
