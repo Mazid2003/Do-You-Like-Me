@@ -20,7 +20,8 @@ Perfect for experimenting with UI/UX creativity, animations, and DOM manipulatio
 ---
 
 ## 🚀 Demo
-🔗 [Live Demo on Netlify]((https://yescape.netlify.app) <!-- Replace # with your actual Netlify URL -->
+
+🔗 [Live Demo on Netlify](https://yescape.netlify.app) <!-- Replace # with your actual Netlify URL -->
 
 ---
 
@@ -33,20 +34,21 @@ Perfect for experimenting with UI/UX creativity, animations, and DOM manipulatio
 
 ## 📂 Project Structure
 .
-├── index.html # Redirects to like.html (entry point for Netlify/GitHub Pages)
-
+├── index.html # Consists for entire code (entry point for Netlify/GitHub Pages)
 
 ---
 
 ## ⚡ How to Run Locally
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/your-username/do-you-like-me.git
+
 Open index.html in your browser.
 
 Enjoy the fun interactions! 🎉
 
-🌟 Future Ideas
+### 🌟 Future Ideas
+
 🎶 Add background music or sound effects
 
 🖼️ Add more playful responses for different buttons
