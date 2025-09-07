@@ -61,10 +61,10 @@ Enjoy the fun interactions! 🎉
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
-📜 License
+### 📜 License
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 
 Built with ❤️ by Mohammad Mazid
