@@ -56,3 +56,15 @@ Enjoy the fun interactions! 🎉
 📱 Improve mobile responsiveness with larger touch targets
 
 💡 A lighthearted project made just for fun and learning interactive front-end design.)
+
+### 💬 Want to Collaborate?
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
+📜 License
+
+This project is open-source under the MIT License. Feel free to use and modify it! 🚀
+
+🧑‍💻 Author
+
+Built with ❤️ by Mohammad Mazid
