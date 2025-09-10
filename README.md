@@ -3,7 +3,7 @@
 # 💖 Do You Like Me?  
 
 An interactive and fun little web app built with **HTML, CSS, and JavaScript**.  
-The app asks the classic question: *"Do you like me?"* with a playful twist —  
+The app asks the classic question: *"Do you like me?"* with a playful twist 
 - The **"No" button** tries to escape your cursor 🏃  
 - The **"Maybe" button** wiggles and runs away 🤔  
 - The **"Yes" button** triggers hearts 💖 and confetti 🎉  
