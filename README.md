@@ -23,7 +23,7 @@ Perfect for experimenting with UI/UX creativity, animations, and DOM manipulatio
 
 ## 🚀 Want to impress your girl try this way...!
 
-🔗 [Live Demo on Netlify](https://likable.netlify.app/) <!-- Replace # with your actual Netlify URL -->
+🔗 **[Live Demo on Netlify](https://likable.netlify.app/)** 
 
 ---
 
